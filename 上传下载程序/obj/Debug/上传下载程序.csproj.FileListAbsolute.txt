@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.Properties.Resources.resources
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\bin\Debug\上传下载程序.exe.config
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\bin\Debug\上传下载程序.exe
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\bin\Debug\上传下载程序.pdb
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.Form1.resources
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.exe
+C:\Users\Administrator\source\repos\上传下载程序\上传下载程序\obj\Debug\上传下载程序.pdb

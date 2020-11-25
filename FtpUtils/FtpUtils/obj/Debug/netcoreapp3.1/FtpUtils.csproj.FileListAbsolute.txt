@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.exe
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.deps.json
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.runtimeconfig.json
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.dll
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\bin\Debug\netcoreapp3.1\FtpUtils.pdb
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.dll
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.pdb
+C:\Users\Administrator\source\repos\FtpUtils\FtpUtils\obj\Debug\netcoreapp3.1\FtpUtils.genruntimeconfig.cache
