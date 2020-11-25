@@ -19,6 +19,7 @@ namespace 上传下载程序
         private static readonly string rootPath = "/";
         private static readonly int defaultReadWriteTimeout = 300000;
         private static readonly int defaultFtpPort = 21;
+        
 
         #region 设置初始化参数
         private string host = string.Empty;
@@ -214,12 +215,15 @@ namespace 上传下载程序
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FtpHelper("192.168.137.1", "Administrator", "001223pp", defaultFtpPort, null, false, true, true, defaultReadWriteTimeout);
+            string str1 = textBox3.Text;
+            string str2 = textBox4.Text;
+            string str3 = textBox5.Text;
+            FtpHelper(str1, str2, str3, defaultFtpPort, null, false, true, true, defaultReadWriteTimeout);
             string stradress = textBox1.Text;//上传文本地址
             FileInfo fileInfo = new FileInfo(stradress);
             FileInfo localFile = fileInfo;
             string remoteFileName = textBox2.Text;
-            bool result = false;
+            //bool result = false;
             if (localFile.Exists)
             {
                 try
@@ -238,7 +242,7 @@ namespace 上传下载程序
                             count = fs.Read(buffer, 0, buffer.Length);
                         }
                         fs.Close();
-                        result = true;
+                        //result = true;
                     }
                     label3.Text = "上传成功！";
                 }
@@ -254,7 +258,10 @@ namespace 上传下载程序
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FtpHelper("192.168.137.1", "Administrator", "001223pp", defaultFtpPort, null, false, true, true, defaultReadWriteTimeout);
+            string str1 = textBox3.Text;
+            string str2 = textBox4.Text;
+            string str3 = textBox5.Text;
+            FtpHelper(str1, str2, str3, defaultFtpPort, null, false, true, true, defaultReadWriteTimeout);
             string localName = textBox1.Text; 
             string stradress = textBox2.Text;
             //FileInfo fileInfo = new FileInfo(stradress);
@@ -288,6 +295,7 @@ namespace 上传下载程序
                 catch (WebException ex)
                 {
                     // 处理ftp连接中的异常
+                   // MessageBox.Show(ex.Message);
                 }
             }
         }
@@ -298,6 +306,11 @@ namespace 上传下载程序
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
